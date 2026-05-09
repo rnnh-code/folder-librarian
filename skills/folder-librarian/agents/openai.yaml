@@ -1,0 +1,4 @@
+interface:
+  display_name: "Folder Librarian"
+  short_description: "Inspect and organize messy folders"
+  default_prompt: "Use $folder-librarian to run a full safe pass on this folder: inspect it, organize obvious items, create or update an index, run a small curated conversion batch when useful tools are available, create an OCR shortlist or small OCR fallback for weak/scanned files when appropriate, propose renames where helpful, optionally do visual spot checks, and create synthesis/wiki layers when appropriate. Do not delete, deduplicate, unzip archives, bulk-convert, run large OCR batches, or execute renames without explicit approval."
